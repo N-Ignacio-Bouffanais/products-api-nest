@@ -13,5 +13,6 @@ import { UsersModule } from './users/users.module';
     AuthModule,
     UsersModule,
   ],
+  controllers: [],
 })
 export class AppModule {}

@@ -9,7 +9,7 @@ async function bootstrap() {
 
   const config = new DocumentBuilder()
     .setTitle('My API documentation')
-    .setDescription('This is for API rest with Vuejs or Reactjs')
+    .setDescription('This is for API rest with Vuejs')
     .setVersion('1.0')
     .addTag('Clothes')
     .addTag('Electronics devices')
